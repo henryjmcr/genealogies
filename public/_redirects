@@ -1,0 +1,3 @@
+/ p=:p  /wp-permalink/:p  301
+https://monabaker.com/* https://monabaker.org/:splat 301!
+https://www.monabaker.com/* https://monabaker.org/:splat 301!

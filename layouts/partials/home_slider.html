@@ -1,0 +1,28 @@
+{{- $slider_num := (.Site.Params.widgets.slider_num | default 10) }}
+{{- $sliders := where .Site.RegularPages "Params.slider" true }}
+{{- $sliders_to_show := (first $slider_num $sliders) }}
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="100000">
+  <div class="carousel-inner">
+	{{ range $index, $slider := $sliders_to_show }}
+    <div class="carousel-item {{ if eq $index 0}}active{{end}}">
+        <img class="d-block w-100" src="{{$slider.Params.featured_img}}" alt="{{$slider.Params.title}}">
+        <div class="carousel-caption p-3">
+            <h5><a class="widget__link" href="{{ $slider.RelPermalink }}">{{ $slider.Title }}</a></h5>
+        </div>
+    </div>
+    {{ end }}
+  </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <div class="slider-control-background">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+        </div>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <div class="slider-control-background">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+        </div>
+    </a>
+</div>

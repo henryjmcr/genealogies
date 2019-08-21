@@ -1,0 +1,30 @@
+---
+title: 'Exile, refuge and the Greek polis: between justice and humanity'
+date: Mon, 19 Feb 2018 13:51:57 +0000
+draft: false
+tags: [resources]
+featured_img: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/191949213&amp;color=ff5500
+aliases: [/wp-permalink/3464]
+---
+
+<div class="entry-post"><div id="pl-3464"  class="panel-layout" ><div id="pg-3464-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-3464-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-3464-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h2>Exile, refuge and the Greek polis: between justice and humanity</h2>
+<h4>Dr. Benjamin Gray</h4>
+<h5>20 February 2015</h5>
+</div>
+</div></div></div></div><div id="pg-3464-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-3464-1-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-3464-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>This seminar addresses the place of exiles and refugees in the Greek polis (city-state), with a focus on the later Classical and Hellenistic periods (c. 400-100 B.C.). It addresses the different forms of protection and aid granted by Greek poleis and their citizens to Greeks displaced through war and civil strife. It also analyses the range of arguments advanced by ancient Greeks for protecting or helping exiles and refugees, including the self-presentation of displaced Greeks themselves. For example, refugees and their hosts could present aid to displaced groups as inspired by justice, law, freedom and shared Greek identity. Alternatively, in a move which became increasingly prominent in the period considered here, they could present help to the displaced as a matter of humane sympathy or even charity.</p>
+<p>This seminar argues that the diverse range of relevant Greek practices and values both reflected and helped to shape complex and shifting ancient Greek ideas about the city, citizenship, democracy, justice, freedom, virtue and gender. Throughout its argument, connections and contrasts are drawn between ancient Greek and modern practices and ideology, and their underpinnings in broader ethical and political ideals. Modern practices and values concerning aid to refugees draw on, and combine, different ancient Greek approaches and traditions, as well as departing from them.</p>
+<p>Dr. Gray is the author of a book on exile, refugees and the city in ancient Greece: <em>Stasis and Stability: Exile, the Polis, and Political Thought, c. 404-146 B.C.</em> (OUP, 2015).</p></div>
+</div></div></div></div><div id="pg-3464-2"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-3464-2-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-3464-2-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/191949213&amp;color=ff5500" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p></div>
+</div></div></div></div><div id="pg-3464-3"  class="panel-grid panel-no-style"  data-style="{&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-3464-3-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-3464-3-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h5>About The Speaker</h5>
+<p>After growing up in south-east London, Dr. Gray studied Classics at Merton College, Oxford (2002-2006). He was then elected a Fellow by Examination at All Souls College, Oxford (2006-2013), where he did postgraduate research and began teaching ancient history. He moved to Edinburgh as a Chancellor’s Fellow in October 2012.</p>
+<p>Dr. Gray is principally interested in the ancient Greek city-state and in ancient Greek political and ethical thought, especially of the fourth century BC and the Hellenistic and early Imperial periods. He studies the wide-ranging political and ethical ideas and debates of those periods, with particular attention to the multiple connections between political rhetoric and political philosophy. A central aim of this work is to integrate the evidence of the inscribed public documents of Greek cities more closely into the history of ancient Greek ethical and political thought, by comparing their rhetoric with that of literary and philosophical sources. He is also interested in the modern reception of ancient politics, especially in connection with issues of migration and deportation and with the history of European socialism.</p>
+<p><img class="alignleft size-full wp-image-3463" src="/wp-content/uploads/2018/02/ops.jpg" alt="Refugee Studies Centre" width="336" height="98" /></p></div>
+</div></div></div></div></div></div>

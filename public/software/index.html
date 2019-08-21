@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Software - Genealogies</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<meta property="og:title" content="Software" />
+<meta property="og:description" content="GoK Tool&nbsp;Plugins&nbsp;User Manual&nbsp;Developers
+The corpus analysis software under development for this project is available as a Java WebStart tool. This software connects a modnlp-based concordance browser to the most recent update of the Genealogies corpus. You can start the tool by clicking on this button: Start GoK Tool
+If you have not already done so, we recommend that you install the latest version of Java. Additionally, the software code and plugins are available for download at : https://sourceforge." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://monabaker.org/software/" />
+<meta property="article:published_time" content="2016-07-29T10:58:08&#43;00:00"/>
+<meta property="article:modified_time" content="2016-07-29T10:58:08&#43;00:00"/>
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Software"/>
+<meta name="twitter:description" content="GoK Tool&nbsp;Plugins&nbsp;User Manual&nbsp;Developers
+The corpus analysis software under development for this project is available as a Java WebStart tool. This software connects a modnlp-based concordance browser to the most recent update of the Genealogies corpus. You can start the tool by clicking on this button: Start GoK Tool
+If you have not already done so, we recommend that you install the latest version of Java. Additionally, the software code and plugins are available for download at : https://sourceforge."/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/bootstrap.min.css"><link rel="stylesheet" href="/css/custom.css"><link rel="stylesheet" href="/css/fa-all.css">
+	<script src="/js/jquery-3.3.1.slim.min.js"></script><script src="/js/popper.min.js"></script><script src="/js/bootstrap.bundle.min.js"></script><script src="/js/twitter-widgets.js"></script><script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="wrapper">
+		<div class="row">
+			<div class="logo col">
+				<a class="logo__link" href="/" title="Genealogies" rel="home">
+					<div class="logo__title">Genealogies</div>
+					<div class="logo__tagline">Genealogies of knowledge</div>
+				</a>
+			</div>
+			<div class="my-auto col-md-auto">
+				<form class="form-inline d-none d-md-block" role="search" method="get" action="https://google.com/search">
+					<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" value="" name="q">
+					<button class="btn btn-outline-dark my-2 my-sm-0 ml-2" type="submit">Search</button>
+					<input type="hidden" name="sitesearch" value="https://monabaker.org/" />
+				</form>
+			</div>
+		</div>
+		<div class="w-100">
+			<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand d-block d-md-none" href="#">Menu</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/about/">About</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/genealogies-knowledge-corpus/">GoK Corpus</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/credits/">Credits</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/software/">Software</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/people/">People</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/research-avenues/">Research Avenues</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/events/">Events</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/translational-english-corpus-tec/">TEC</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link" href="/links/">Links</a>
+                    
+                </li>
+            
+                <li class="nav-item dropdown mx-2">
+                    
+                        <a class="nav-link dropdown-toggle" href="/about-me" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About me</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            
+                                <a class="dropdown-item" href="/links">Links</a>
+                            
+                                <a class="dropdown-item" href="/publications">Publications</a>
+                            
+                                <a class="dropdown-item" href="/research">Research</a>
+                            
+                        </div>
+                    
+                </li>
+            
+        </ul>
+    </div>
+</nav>
+		</div>
+	</div>
+	
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Software</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2016-07-29T10:58:08">July 29, 2016</time>
+</div>
+</div>
+		</header><div class="content post__content clearfix">
+			<div class="entry-post"><p style="text-align: center;"><a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #33809e; color: #ffffff;" href="http://genealogiesofknowledge.net/software/">GoK Tool</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #9e337a; color: #ffffff;" href="http://genealogiesofknowledge.net/software/manual/#plug">Plugins</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #33589e; color: #ffffff;" href="http://genealogiesofknowledge.net/software/manual/">User Manual</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #7c339e; color: #ffffff;" href="http://genealogiesofknowledge.net/software/developers/">Developers</a></p>
+
+The corpus analysis software under development for this project is available as a Java WebStart tool. This software connects a <a href="#modnlp">modnlp-based</a> concordance browser to the most recent update of the <a href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/">Genealogies corpus</a>. You can start the tool by clicking on this button:
+<p style="text-align: center;"><a class="fasc-button fasc-size-large fasc-type-glossy fasc-rounded-medium fasc-style-bold" style="background-color: #2e1a91; color: #ffffff;" href="http://www.genealogiesofknowledge.net/gok/jnlp-beta/gok.jnlp">Start GoK Tool</a></p>
+If you have not already done so, we recommend that you install the latest version of <a href="https://java.com/">Java.</a>
+
+Additionally, the software code and plugins are available for download at : <a href="https://sourceforge.net/projects/modnlp/">https://sourceforge.net/projects/modnlp/</a>
+
+<strong>Note:</strong> The first time that you download and attempt to launch the software, you may receive a system security warning. Instructions on how to resolve this are provided below:
+
+<ul><li><em>Apple users</em>: Go to 'System Preferences', click on 'Security &amp; Privacy', then click ‘Open anyway’.</li>
+    <li><em>Windows users</em>: Go to the 'Start' Menu and search for 'Configure Java'. Having opened this panel, choose the 'Security' tab and click 'Edit Site list'. Click 'Add' and add the following web address to the list:&nbsp;http://genealogiesofknowledge.net/. Click 'Ok' and you should now be able to access the software.</li></ul>
+Given that&nbsp;Modnlp and these plugins are still under construction and as such are frequently updated, it is recommended that users&nbsp;<span style="font-size: 15.2015px;">regularly</span><span style="font-size: 15.2015px;">&nbsp;delete all existing versions of the software from their workstation and re-download the browser from this page. This will ensure that you continue to work with the latest version of the software available as the project evolves.</span>
+
+Should you encounter any software bugs or other technical problems when using these tools, please create a ticket detailing the nature of the issue on our SourceForge project page: <a href="https://sourceforge.net/p/modnlp/tickets/">https://sourceforge.net/p/modnlp/tickets/</a>
+
+<div style="width:100%; margin-top:20px"></div>
+<h4><strong>MODNLP: Modular Suite of NLP Tools</strong></h4>
+<strong>modnlp</strong> aims to provide a modular architecture and tools for natural language processing written (mainly) in Java. These tools are being developed in connection with the Genealogies of Knowledge project.
+
+The following modnlp modules are currently available:
+<ul>
+    <li><a href="http://genealogiesofknowledge.net/idx/">idx</a>: an API and tools for (inverted) indexing, storage and retrieval of large amounts of text, with (XML-based) handling of meta-data.</li>
+    <li><a href="http://genealogiesofknowledge.net/software/developers/:%20http:/genealogiesofknowledge.net/tc/">tc</a>: an API and tools for text categorisation, including, functionality for XML parsing, term set reduction (and basic keyword extraction), probabilistic classifier induction, two sample classification tools, and evaluation modules.</li>
+    <li><a href="http://genealogiesofknowledge.net/software/developers/%20http:/genealogiesofknowledge.net/tec-tools/%20">tec-tools</a>&nbsp;(v2), consisting of tec-server, a corpus indexer and server for corpus access and analysis over the web and tec-client: a corpus analysis client. Unlike the (now obsolete) version 1 of these tools, originally developed for the <a href="http://genealogiesofknowledge.net/translational-english-corpus-tec/">TEC project</a>, and written in Perl, C (server side) and Java, the version in this site (v2) is written entirely in Java.</li></ul>
+This new version of the tools forms the basis of software support for text analysis and visualisation in the Genealogies of Knowledge project.
+
+The modnlp/tec tools have also been used by the <a href="http://www.ecpc.uji.es/">European Parliamentary Comparable and Parallel Corpora project</a> (ECPC) coordinated by Dr. Calzada Pérez (Universitat Jaume I, Spain), and by the <a href="http://genealogiesofknowledge.net/translational-english-corpus-tec/">Translational English Corpus</a>, which has been collected and maintained under Prof Mona Baker’s supervision at the University of Manchester, and made available on the Internet through the Genealogies of Knowledge project website, in a collaboration between The University of Edinburgh and The University of Manchester.
+
+Also available is the <a href="http://modnlp.sourceforge.net/doc/">documentation of the modnlp </a>suite (for developers).</div>
+
+		</div>
+		
+	</article>
+</main>
+
+
+
+
+			</div>
+			<aside class="sidebar">
+
+<div class="widget-recent widget">
+	
+</div>
+
+
+
+<div class="widget-recent widget">
+    <h4 class="widget__title">Solidarity</h4>
+    <div class="widget__content">
+    <div class="container text-center my-4">
+    <a href="http://egyptsolidarityinitiative.org" target="_blank"><img width="167" height="125" alt="Solidarity" style="max-width: 100%;" src="/wp-content/uploads/2014/07/Egypt-SolidarityUSE.jpg"></a>
+    </div>
+    </div>
+</div><div class="widget-recent widget">
+	<div class="widget__content">
+    <a class="twitter-timeline" data-height="800" href="https://twitter.com/MonaBaker11?ref_src=twsrc%5Etfw">Tweets by MonaBaker11</a>
+    </div>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/registration-now-open-constructing-the-public-intellectual-in-the-premodern-world/">Registration now open: Constructing the ‘Public Intellectual’ in the Premodern World</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/edoardo-crisafulli-demystifying-christian-liberty/">Edoardo Crisafulli – Demystifying Christian Liberty</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/genealogies-of-knowledge-ii/">Genealogies of Knowledge II</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/genealogies-of-knowledge-conference-i-dec-2017-video-recordings-now-available/">Genealogies of Knowledge Conference I (Dec. 2017): Video recordings now available</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/cfp-translation-as-political-act/">CFP: Translation as Political Act</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/4375/">Constructing the ‘Public Intellectual’ in the Premodern World</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2019 Genealogies.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script><script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+</body>
+</html>

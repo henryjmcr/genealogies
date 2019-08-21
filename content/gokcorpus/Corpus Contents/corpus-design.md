@@ -1,0 +1,27 @@
+---
+title: 'Corpus design'
+date: Fri, 15 Feb 2019 16:43:41 +0000
+draft: false
+featured_img: 
+aliases: [/wp-permalink/4765]
+---
+
+<div class="entry-post"><p style="text-align: center;"><a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #333f9e; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/">Overview</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #33809e; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-design/">Corpus design</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e89; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-contents/">Corpus contents</a><span style="font-size: 0.95em;">&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e48; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-text-preparation/">Corpus text preparation</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #809e33; color: #ffffff;" href="http://genealogiesofknowledge.net/research-avenues/">Research avenues</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #c2a91d; color: #ffffff;" href="http://genealogiesofknowledge.net/software/manual/">User manual</a></span></p>
+&nbsp;
+
+In terms of time span, the Genealogies corpus is designed to allow researchers to&nbsp;examine the following processes, within specific historical&nbsp;and spatial locations:
+<ul>
+ 	<li>the mediation&nbsp;of Greek thought through translations into and commentaries in Arabic, from the eighth through to the tenth century;</li>
+ 	<li>its renegotiation&nbsp;via translations into and commentaries in Latin, either directly or via Arabic, during two periods: the Classical period, including Late Antiquity, c.1st century BC to 6th century AD; and the Medieval translation movement from the thirteenth century onwards;</li>
+ 	<li>the&nbsp;renegotiation of the concepts under study in translations of key texts into English in the&nbsp;late nineteenth century and throughout the twentieth and early twenty-first centuries;</li>
+ 	<li>the ongoing renegotiation&nbsp;of the concepts in question by civil society organisations and actors in the twenty-first century, particularly on the Internet.</li>
+</ul>
+The Genealogies corpus consists of a number of subcorpora:
+<ul>
+ 	<li>a corpus of <strong>Greek</strong> source texts (c.5th century BC to c.2nd/3rd century AD) which features authors such as Galen, Hippocrates, Plato, Aristotle and Isocrates;</li>
+ 	<li>a corpus of medieval <strong>Arabic</strong> consisting of translations of&nbsp;and commentaries on Greek texts, including translations by Hunayn Ibn Ishaq of texts by Hippocrates and Galen, as well as original texts by Al-Farabi, Averroes and Avicenna;</li>
+ 	<li>a corpus of <strong>Latin</strong> consisting of original texts by authors such as Cicero and Boethius, translations and retranslations from both Arabic and Greek, as well as&nbsp;commentaries on texts by authors such as Aristotle;</li>
+ 	<li>a corpus of <strong>modern English</strong> consisting of translations and retranslations of relevant texts in the nineteenth&nbsp;and throughout the twentieth and twenty-first centuries, primarily from Greek, Latin, French and German. It features several retranslations of works by Greek and Roman authors such as Plato, Thucydides and Plutarch as well as translations of works by more modern authors such as Ludwig Wittgenstein, René Descartes, Karl Popper, Karl Marx, Michel Foucault, Étienne Balibar and Hegel;</li>
+ 	<li>a corpus of <strong>Internet English</strong> produced by alternative media and news&nbsp;outlets. Alternative media sites on the left include outlets such as&nbsp;<em>Indymedia</em>, <em>Inter Press Service</em>, <em>Open&nbsp;Democracy</em> and <em>ROAR</em> (Reflections on a Revolution) <em>Magazine</em>, as well as texts from the websites of civil society organisations such as The World&nbsp;Social Forum. Alternative sites on the right include <i><span lang="EN-US">Newsmax, Amerika.org </span></i><span lang="EN-US">and <i>News Rescue. </i>Blogs include <i>I Cite </i>and <i>Bad Science </i>on the left, and </span><i><span lang="EN-US">Guido Fawkes&nbsp;</span></i><span lang="EN-US">and <i>Climatedepot&nbsp;</i></span><span lang="EN-US">on the right. </span>This corpus draws on discourses generated and disseminated by&nbsp;communities that advocate and practise alternative forms of political participation&nbsp;and provide new platforms for the collective revision and construction of&nbsp;knowledge.</li>
+</ul>
+Supported by the&nbsp;powerful search and visualisation <a href="http://genealogiesofknowledge.net/software/">software tools</a> developed specifically&nbsp;for this project, the corpus is designed to allow&nbsp;the research team, and the research community at large, to trace the development and&nbsp;mutation of key concepts that have become a core part of our academic and public life, and&nbsp;their contestation and renegotiation by civil society today.</div>

@@ -1,0 +1,17 @@
+{{- $homepagepost := where .Site.RegularPages "Params.homepage_post" true }}
+{{- $post := (first 1 $homepagepost) }}
+
+<div class="widget-recent widget">
+	{{ range $post }}
+        <h4 class="widget__title">{{.Title}}</h4>
+        <div class="widget__content">
+        <div class="container text-center my-4">
+        <a href="{{ .RelPermalink }}"> <img width="275" height="183" alt="Nazmi Al-Masri on August 12, 2014" class="attachment-full" style="max-width: 100%;" src="{{.Params.featured_img}}"></a>
+        </div>
+        <span>{{.Summary}}...</span>
+        </div>
+    {{end}}
+</div>
+
+
+

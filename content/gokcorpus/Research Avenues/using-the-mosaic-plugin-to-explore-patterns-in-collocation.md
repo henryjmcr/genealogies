@@ -1,0 +1,20 @@
+---
+title: 'Using the Mosaic plugin to explore patterns in collocation'
+date: Wed, 01 May 2019 12:16:37 +0000
+draft: false
+featured_img: /wp-content/uploads/2018/03/Assembly-mosaic.png
+aliases: [/wp-permalink/4999]
+---
+
+<div class="entry-post"><p style="text-align: center;"><a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #333f9e; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/">Overview</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #33809e; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-design/">Corpus design</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e89; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-contents/">Corpus contents</a><span style="font-size: 0.95em;">&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e48; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-text-preparation/">Corpus text preparation</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #809e33; color: #ffffff;" href="http://genealogiesofknowledge.net/research-avenues/">Research avenues</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #c2a91d; color: #ffffff;" href="http://genealogiesofknowledge.net/software/manual/">User manual</a></span></p>
+&nbsp;&nbsp;
+
+<img class="alignnone size-full wp-image-3656" src="/wp-content/uploads/2018/03/Assembly-mosaic.png" sizes="(max-width: 880px) 100vw, 880px" srcset="/wp-content/uploads/2018/03/Assembly-mosaic.png 880w, /wp-content/uploads/2018/03/Assembly-mosaic-300x166.png 300w, /wp-content/uploads/2018/03/Assembly-mosaic-768x425.png 768w" alt="" width="880" height="487">
+
+The above Mosaic visualisation has been produced by selecting Benjamin Jowett’s translation of&nbsp;Thucydides’ <em>History of the Peloponnesian War</em><strong>&nbsp;</strong>(Filename: mod000019)&nbsp;in the subcorpus selector and searching for the keyword <em><strong>assembly </strong></em>in the corpus browser. The Mosaic tool was launched by clicking ‘Plugins-&gt;Mosaic’ and the ‘Collocation Strength (Local)’ view was&nbsp;then chosen.
+
+Previous analyses of Jowett’s translation have suggested&nbsp;this translator made significant interventions in the text as part of his interpretation of the <em>History</em>, in some key instances dramatically downplaying the political agency of ordinary Athenian citizens in the representation of classical democracy that Thucydides provides. Corpus tools allow the researcher to either support, complicate or challenge such hypotheses by greatly facilitating the investigation of Jowett’s target text as a whole text and the identification of patterns within it.
+
+This Mosaic visualisation tool provides a useful starting point for this corpus-based approach. Specifically, and with reference to the keyword&nbsp;<em><strong>assembly</strong>,&nbsp;</em>it&nbsp;indicates we might productively begin our analysis by examining the extent to which this translator shows unusual preference for the verbs ‘summon’ and ‘summoned’ in connection with this noun&nbsp;(perhaps implying the existence of a higher political authority above and beyond popular democratic structures),&nbsp;instead of less marked choices such as ‘hold’ or ‘held’.&nbsp;This can then be followed by close reading of particular concordance lines extracted from Jowett’s version and qualitative comparison with other translations of the <em>History&nbsp;</em>(e.g. Richard Crawley’s – Filename: mod000020).
+
+For more information about this study, see Jones, H. (<em>forthcoming</em>) ‘Jowett’s Thucydides: A corpus-based analysis of translation as political intervention’.</div>

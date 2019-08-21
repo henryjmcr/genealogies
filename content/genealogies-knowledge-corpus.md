@@ -1,0 +1,17 @@
+---
+title: 'Genealogies of Knowledge Corpus'
+date: Thu, 19 May 2016 10:32:14 +0000
+draft: false
+featured_img: 
+aliases: [/wp-permalink/274]
+---
+
+<div class="entry-post"><p style="text-align: center;"><a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #333f9e; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/">Overview</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #33809e; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-design/">Corpus design</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e89; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-contents/">Corpus contents</a><span style="font-size: 0.95em;">&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e48; color: #ffffff;" href="http://genealogiesofknowledge.net/genealogies-knowledge-corpus/corpus-text-preparation/">Corpus text preparation</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #809e33; color: #ffffff;" href="http://genealogiesofknowledge.net/research-avenues/">Research avenues</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #c2a91d; color: #ffffff;" href="http://genealogiesofknowledge.net/software/manual/">User manual</a></span></p>
+
+The Genealogies of Knowledge corpus is designed to enable researchers to trace the trajectory of key concepts as they enter different cultural and temporal spaces, predominantly but not exclusively through the mediation of various forms of translation.
+
+The current focus of the project is on Greek as a starting point, plus three historical&nbsp;lingua francas (Arabic, Latin and English), and on concepts relating to the body&nbsp;politic and to scientific, expert discourse. However, the research team is developing&nbsp;a set of resources and a range of methodologies that can support future studies involving different lingua francas (French being an obvious choice in the European context), different historical moments (perhaps the Enlightenment), and different constellations of concepts. To this end, both the corpora we are building and the software being developed to interrogate them and visualise the&nbsp;findings&nbsp;are being made accessible to the research community, to support other types of study.
+
+Because of legal constraints pertaining to copyright law, we offer restricted access to the corpora: we aim to allow visitors to the site to run searches, expand individual concordance lines within the limits of fair use (300 words), and download the findings. But we are unable to offer full access to individual texts.
+
+All <a href="http://genealogiesofknowledge.net/software/">software tools</a> developed for this project are available for free download, together with relevant documentation, under a&nbsp;Free Software license, the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public&nbsp;License</a>.</div>

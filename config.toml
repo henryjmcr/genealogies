@@ -1,0 +1,100 @@
+baseURL = "https://monabaker.org/"
+languageCode = "en-us"
+title = "Genealogies"
+theme = "mainroad"
+enableRobotsTXT = false
+
+paginate = "10" # Number of posts per page
+
+[Author] # Used in authorbox
+  name = "Mona Baker"
+  bio = "Mona Baker bio"
+  avatar = ""
+
+[Params]
+  subtitle = "Genealogies of knowledge" # Subtitle of your site. Used in site header
+  description = "Mona Baker's Personal website" # Site description. Used in meta description
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  post_meta = ["date", "categories", "translations"] # Order of post meta information
+  #mainSections = ["post","blog", "news"] # specify section pages to show on home page and the "Recent articles" widget
+  customCSS = ["css/bootstrap.min.css","css/custom.css", "css/fa-all.css"] # Include custom CSS files
+  customJS = ["js/jquery-3.3.1.slim.min.js", "js/popper.min.js","js/bootstrap.bundle.min.js", "js/twitter-widgets.js", "https://identity.netlify.com/v1/netlify-identity-widget.js"] # Include custom CSS files
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = true # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["gok_buttons", "twitter", "hppost", "recent"]
+
+  [Params.widgets]
+  slider_num = 10
+  recent_num = 6 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "https://twitter.com/GenofKnow"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "About"
+    url = "/about/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "GoK Corpus"
+    url = "/genealogies-knowledge-corpus/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "Credits"
+    url = "/credits/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "Software"
+    url = "/software/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "People"
+    url = "/people/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "Research Avenues"
+    url = "/research-avenues/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "Events"
+    url = "/events/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "TEC"
+    url = "/translational-english-corpus-tec/"
+
+[[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "Links"
+    url = "/links/"
+
+  [[Params.barmenu]]
+  [Params.barmenu.parent]
+    label = "About me"
+    url = "/about-me"
+
+  [[Params.barmenu.children]]
+    label = "Links"
+    url = "/links"
+
+  [[Params.barmenu.children]]
+    label = "Publications"
+    url = "/publications"
+
+  [[Params.barmenu.children]]
+    label = "Research"
+    url = "/research"

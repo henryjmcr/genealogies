@@ -1,0 +1,28 @@
+{{- $recent := where .Site.RegularPages "Section" "in" .Site.Params.mainSections }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+
+{{- if $recent }}
+<div class="widget-recent widget mt-5">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		{{ range $index, $recent := (first $recent_num $recent) }}
+			{{ if  (modBool $index 2)}}
+			<div class="card-deck my-3">
+			{{end}}
+			<div class="card">
+				<div class="card-img d-flex align-items-center justify-content-center">
+					<img src="{{.Params.featured_img}}" class="card-img-top" alt="...">
+				</div>
+				<div class="card-body">
+					<h5 class="card-title"><a class="widget__link" href="{{ .RelPermalink }}">{{ $recent.Title }}</a></h5>
+					<p class="card-date text-muted">{{dateFormat "02 January 2006" .Params.date}}</p>
+					<p class="card-text">{{ $recent.Summary | truncate 200 }}</p>
+				</div>
+			</div>
+			{{ if  not (modBool $index 2)}}
+			</div>
+			{{end}}
+		{{ end }}
+	</div>
+</div>
+{{- end }}

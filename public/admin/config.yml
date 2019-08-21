@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+site_url: https://monabaker.org/
+# publish_mode: editorial_workflow
+media_folder: "static/img/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Post" # Used in the UI
+    folder: "content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featured_img", widget: "image", required: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Show at slider", name: "slider", widget: "boolean", default: true}
+      - {label: "Show at homepage sidebar", name: "homepage_post", widget: "boolean", default: false}
+      - {label: "Tags", name: "tags", widget: "list", pattern: ['^[\w\-,]+$', "Separate tags using commas. White spaces are not allowed. Tags can contain letters, numbers and hyphens."]}
+      - {label: "Body", name: "body", widget: "markdown"}

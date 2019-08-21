@@ -1,0 +1,104 @@
+---
+title: 'Principia Scientific International'
+date: Mon, 03 Jun 2019 11:41:41 +0000
+draft: false
+featured_img: /wp-content/uploads/2018/07/PSI-logo-300x51.jpg
+aliases: [/wp-permalink/5076]
+---
+
+<div class="entry-post"><img class="alignnone size-medium wp-image-4208 aligncenter" src="/wp-content/uploads/2018/07/PSI-logo-300x51.jpg" alt="Principia Scientific International" width="300" height="51" />
+<h4>Articles Selected for the Genealogies of Knowledge Corpus</h4>
+<table width="556">
+<tbody>
+<tr>
+<td width="556">3 Decades Of Alarmists’ False Climate Prophesies Unfulfilled</td>
+</tr>
+<tr>
+<td width="556">Bias And Intolerance In Science</td>
+</tr>
+<tr>
+<td width="556">Breaking: New Climate Data Rigging Scandal Rocks US Government</td>
+</tr>
+<tr>
+<td width="556">Climate Mafia Caught Tampering With Evidence Again…</td>
+</tr>
+<tr>
+<td width="556">CO2 Was Framed!</td>
+</tr>
+<tr>
+<td width="556">Dr. Tim Ball: Politicians “Ignore Evidence, Act As Green Dictators”</td>
+</tr>
+<tr>
+<td width="556">Empirical Evidence Of Man-Made Global Warming?</td>
+</tr>
+<tr>
+<td width="556">Fact Check: China’s Modern Climate Change Evidence</td>
+</tr>
+<tr>
+<td width="556">Fear Not For Fiji—Sea Level Rise Not Related To Climate, Glacial Melt</td>
+</tr>
+<tr>
+<td width="556">Former NASA Scientists Conclude: No Evidence Of Catastrophic Global Warming</td>
+</tr>
+<tr>
+<td width="556">Global Warming ‘Fabricated’ By NASA And NOAA</td>
+</tr>
+<tr>
+<td width="556">Greenpeace Co-Founder: No Scientific Evidence Of Man-Made Global Warming</td>
+</tr>
+<tr>
+<td width="556">How CIA Evidence Exposes The Greatest Climate Change Error</td>
+</tr>
+<tr>
+<td width="556">How CIA Evidence Exposes The Greatest Climate Change Error</td>
+</tr>
+<tr>
+<td width="556">Human Caused Global Warming Is Deep State’s Biggest Deception</td>
+</tr>
+<tr>
+<td width="556">If Global Warming Is Real Why Fake The Evidence?</td>
+</tr>
+<tr>
+<td width="556">Mega Tsunami Devastated Medieval English Coast</td>
+</tr>
+<tr>
+<td width="556">More Evidence Water Vapor Is The Big Climate Kahuna</td>
+</tr>
+<tr>
+<td width="556">NASA Has More Evidence Volcanic Activity Is Heating Up Antarctica’s Ice Sheet</td>
+</tr>
+<tr>
+<td width="556">NASA Has More Evidence Volcanic Activity Is Heating Up Antarctica’s Ice Sheet</td>
+</tr>
+<tr>
+<td width="556">New Evidence Back Climate Theory Link Between Planets And Sun</td>
+</tr>
+<tr>
+<td width="556">New Paper Finds Strong Evidence The Sun Has Controlled Climate Over The Past 11,000 Years, Not CO2</td>
+</tr>
+<tr>
+<td width="556">Ocean Acidification Claims Are Misleading – And Deliberately So</td>
+</tr>
+<tr>
+<td width="556">Russians &amp; NASA Discredit ‘Fossil Fuel’ Theory: Demise Of Junk CO2 Science</td>
+</tr>
+<tr>
+<td width="556">Scientists Detect Evidence Of A Star Devouring A Planet</td>
+</tr>
+<tr>
+<td width="556">Strong Evidence Earth’s Atmosphere Cools – Not Warms Us</td>
+</tr>
+<tr>
+<td width="556">Strong Evidence That Svensmark’s Solar-Cosmic Ray Theory Of Climate Is Correct</td>
+</tr>
+<tr>
+<td width="556">The Evidence: Positive Impacts Of Human CO2 Emissions</td>
+</tr>
+<tr>
+<td width="556">Where Is The Evidence Of Man-Made Climate Change?</td>
+</tr>
+<tr>
+<td width="556">Woods Hole Climatologist Gives False Evidence To Congress</td>
+</tr>
+</tbody>
+</table></div>
