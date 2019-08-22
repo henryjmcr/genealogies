@@ -1,4 +1,4 @@
-baseURL = "https://monabaker.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Genealogies"
 theme = "mainroad"
