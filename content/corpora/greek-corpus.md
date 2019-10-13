@@ -17,6 +17,8 @@ The Genealogies of Knowledge project provides free but restricted access to thes
 <h4>Content of the Greek corpus</h4>
 (Last updated 20/02/19)
 
-[table id=18 /]
 
-{{< verticalspacer 20 >}}</div>
+{{< tablecsv "http://localhost:1313/corpora/tables/test.csv" >}}
+
+
+</div>

@@ -6,9 +6,65 @@
     height: 90vh;
     margin: auto;
   }
+  #legend {
+    position: absolute;
+    display: inline-block;
+    max-width: 200px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgba(255,255,255,0.7);
+    z-index: 1;
+    padding: 10px;
+  }
+
+  #legend li{
+    content: "•"; 
+    width: 3em;
+  }
+
+  #legend li#eng{
+    color: #d97dd8;
+  }
+
+  #legend li#gre{
+    color: #8cb900;
+  }
+
+  #legend li#lat{
+    color: #00c7ff;
+  }
+
+  #legend li#ara{
+    color: #ff7045;
+  }
+
+  #legend li#tra{
+    color: #7bcaa6;
+  }
+
+  #legend li#com{
+    color: #f3a3b4;
+  }
 </style>
 </head>
 <body>
+<div id="legend">
+  <p>Nodes represent authors</p>
+  <p>Node's size represents the author's documents</p>
+  <p>Node's colour represents the author's language</p>
+  <ul>
+    <li id="eng">English</li>
+    <li id="gre">Greek</li>
+    <li id="lat">Latin</li>
+    <li id="ara">Arabic</li>
+  </ul>
+  <p>Edge's colour represents a</p>
+  <ul>
+    <li id="tra">Translation</li>
+    <li id="com">Commentary</li>
+  </ul>
+</div>
 <div id="container"></div>
 <script src="js/sigma.min.js"></script>
 <script src="js/sigma.parsers.json.min.js"></script>

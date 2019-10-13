@@ -2,3 +2,4 @@ hugo.exe
 *.code-workspace
 *.docx
 *.zip
+public/
