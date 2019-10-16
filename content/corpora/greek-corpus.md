@@ -18,7 +18,7 @@ The Genealogies of Knowledge project provides free but restricted access to thes
 (Last updated 20/02/19)
 
 
-{{< tablecsv "http://localhost:1313/corpora/tables/test.csv" >}}
+{{< tablecsv "https://zen-cori-e1d400.netlify.com/tables/test.csv" >}}
 
 
 </div>

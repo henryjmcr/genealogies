@@ -45,7 +45,7 @@ paginate = "10" # Number of posts per page
 [[Params.barmenu]]
   [Params.barmenu.parent]
     label = "GoK Corpus"
-    url = "/genealogies-knowledge-corpus/"
+    url = "/gokcorpus/"
 
 [[Params.barmenu]]
   [Params.barmenu.parent]
@@ -75,26 +75,9 @@ paginate = "10" # Number of posts per page
 [[Params.barmenu]]
   [Params.barmenu.parent]
     label = "TEC"
-    url = "/translational-english-corpus-tec/"
+    url = "/tec/"
 
 [[Params.barmenu]]
   [Params.barmenu.parent]
     label = "Links"
     url = "/links/"
-
-  [[Params.barmenu]]
-  [Params.barmenu.parent]
-    label = "About me"
-    url = "/about-me"
-
-  [[Params.barmenu.children]]
-    label = "Links"
-    url = "/links"
-
-  [[Params.barmenu.children]]
-    label = "Publications"
-    url = "/publications"
-
-  [[Params.barmenu.children]]
-    label = "Research"
-    url = "/research"
