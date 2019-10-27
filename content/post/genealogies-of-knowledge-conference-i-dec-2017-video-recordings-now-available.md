@@ -3,7 +3,8 @@ title: 'Genealogies of Knowledge Conference I (Dec. 2017): Video recordings now 
 date: Wed, 07 Nov 2018 13:17:38 +0000
 draft: false
 tags: [feature, media, project-news]
-featured_img: 
+featured_img: wp-content/uploads/2018/11/gok1backgroundslide.jpg
+slider: true
 aliases: [/wp-permalink/4683]
 ---
 

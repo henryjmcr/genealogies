@@ -3,7 +3,8 @@ title: 'Genealogies of Knowledge II'
 date: Tue, 19 Feb 2019 15:23:32 +0000
 draft: false
 tags: [events, feature]
-featured_img: /wp-content/uploads/2016/06/AHRC-funded-logo218x218-150x150.jpg
+featured_img: wp-content/uploads/2018/11/HK_gok2020_titlebanner_7_9_april.png
+slider: true
 aliases: [/wp-permalink/4780]
 ---
 
